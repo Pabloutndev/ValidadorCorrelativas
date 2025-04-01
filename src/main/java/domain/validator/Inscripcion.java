@@ -1,4 +1,4 @@
-package org.example;
+package domain.validator;
 import java.util.List;
 
 public class Inscripcion {

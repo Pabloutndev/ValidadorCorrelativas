@@ -1,9 +1,9 @@
-package org.example;
+package domain.validator;
 
 import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Test;
-import static org.junit.jupiter.api.Assertions.*;
+
 import java.util.ArrayList;
 import java.util.List;
 

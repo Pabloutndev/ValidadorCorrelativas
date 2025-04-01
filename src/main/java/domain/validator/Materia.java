@@ -1,4 +1,4 @@
-package org.example;
+package domain.validator;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -15,12 +15,12 @@ public class Materia {
         return nombre;
     }
 
-    public void agregarCorrelativa(Materia materia) {
-        correlativas.add(materia);
-    }
-
     public List<Materia> getCorrelativas() {
         return correlativas;
+    }
+
+    public void agregarCorrelativa(Materia materia) {
+        correlativas.add(materia);
     }
 
     public boolean cumpleCorrelativas(List<Materia> materiasAprobadas) {
