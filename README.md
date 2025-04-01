@@ -2,4 +2,4 @@
 
 #### Diagrama UML 
 
-![Diagrama UML](/src/main/Diagramadeclases.png)
+![Diagrama UML](src/main/Diagrama de clases.png)
